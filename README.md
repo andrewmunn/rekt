@@ -1,5 +1,5 @@
 # Rekt
-Rekt is a dependency Injection library for Kotlin inspired by Kodein, Koin, and Injekt.
+Rekt is a simple dependency ~~injector~~ locator for Kotlin inspired by [Kodein](https://github.com/Kodein-Framework/Kodein-DI), [Koin](https://github.com/InsertKoinIO/koin), and [Injekt](https://github.com/kohesive/injekt).
 
 ## Usage
 ```kotlin
