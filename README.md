@@ -4,9 +4,8 @@ Rekt is a simple dependency ~~injector~~ locator for Kotlin inspired by [Kodein]
 ## Usage
 ```kotlin
 fun main(vararg args : String) { 
-  // start Rekt!
+  // start Rekt and initialize modules!
   getRekt {
-    // erekt modules
     erekt(myModule)
   }
 } 
