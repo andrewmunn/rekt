@@ -1,5 +1,5 @@
 # Rekt
-Rekt is a simple dependency ~~injector~~ locator for Kotlin inspired by [Kodein](https://github.com/Kodein-Framework/Kodein-DI), [Koin](https://github.com/InsertKoinIO/koin), and [Injekt](https://github.com/kohesive/injekt).
+Rekt is a lightweight and fast ~~dependency injector~~ service locator for Kotlin inspired by [Kodein](https://github.com/Kodein-Framework/Kodein-DI), [Koin](https://github.com/InsertKoinIO/koin), and [Injekt](https://github.com/kohesive/injekt).
 
 ## Usage
 ```kotlin
